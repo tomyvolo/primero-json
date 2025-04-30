@@ -1,0 +1,15 @@
+{
+  "name": "juan",
+  "edad": 20,
+  "dni": 44525698,
+  "trabajos": {
+              "primero": "administrador",
+              "segundo": "programador"
+              },
+  "estado civil": "soltero",
+  "grupo sanguineo": 0,
+  "deportes": {
+              "primero": "rugby",
+              "segundo": "futbol"
+              },
+}
