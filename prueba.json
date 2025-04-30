@@ -11,5 +11,16 @@
   "deportes": {
               "primero": "rugby",
               "segundo": "futbol"
-              },
+              }
+              ,
+              "hobbies": {
+                "primero": "leer",
+                "segundo": "viajar",
+                "tercero": "fotografía"
+              }
+            ,
+            "estudios": {
+              "carrera": "ingenieria",
+              "año": "segundo"
+            }
 }
