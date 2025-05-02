@@ -1,25 +1,22 @@
 {
-  "name": "juan",
-  "edad": 20,
-  "dni": 44525698,
+  "datos": {"name": "juan",
+            "edad": 20,
+            "dni": 44525698,
+            "estado civil": "soltero",
+            "grupo sanguineo": 0,
+            "deporte": "futbol"
+            },
   "trabajos": {
               "primero": "administrador",
               "segundo": "programador"
               },
-  "estado civil": "soltero",
-  "grupo sanguineo": 0,
-  "deportes": {
-              "primero": "rugby",
-              "segundo": "futbol"
-              }
-              ,
-              "hobbies": {
+  "hobbies": {
                 "primero": "leer",
                 "segundo": "viajar",
                 "tercero": "fotografía"
               }
             ,
-            "estudios": {
+  "estudios": {
               "carrera": "ingenieria",
               "año": "segundo"
             }
