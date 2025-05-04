@@ -1,25 +1,28 @@
-[
 {
-  "datos": {"name": "juan",
+  "datos": [
+           {"name": "juan",
             "edad": 20,
             "dni": 44525698,
             "estado civil": "soltero",
             "grupo sanguineo": 0,
             "deporte": "futbol"
-            },
-  "trabajos": {
+            }
+          ],
+  "trabajos": [
+              {
               "primero": "administrador",
               "segundo": "programador"
-              },
-  "hobbies": {
+              }
+            ],
+  "hobbies": [{
                 "primero": "leer",
                 "segundo": "viajar",
                 "tercero": "fotografía"
               }
-            ,
-  "estudios": {
+              ],
+  "estudios": [{
               "carrera": "ingenieria",
               "año": "segundo"
             }
+          ]
 }
-]
